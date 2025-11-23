@@ -1,0 +1,23 @@
+{
+  "identify": {
+    "name": "Sahaza Nomena",
+    "job": "Développeur Web & Mobile",
+    "adress": "Antsirabe"
+  },
+  "experience": [
+    {
+      "job": "Développeur front-end",
+      "entreprise": "Bifora",
+      "duration": "3 ans",
+      "technos": ["React", "NextJS", "TypeScript", "SaaS"]
+    }
+  ],
+  "skills": {
+    "front": ["React", "NextJS", "Tailwind", "Tauri"],
+    "back": ["FastAPI", "NodeJS"],
+    "devops": ["GitHub Actions", "Docker"]
+  },
+  "studies": [
+    "Licence en Informatique – Université d’Antsirabe"
+  ]
+}
