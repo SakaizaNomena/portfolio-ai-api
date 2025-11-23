@@ -1,0 +1,36 @@
+{
+    "1": [
+        {
+            "role": "user",
+            "content": "Comment tu t'appelle"
+        },
+        {
+            "role": "assistant",
+            "content": "Je m'appelle Nomena Sahaza, mais mes amis et connaissances m'appellent souvent Sahaza Nomena. En tant que d\u00e9veloppeur Web & Mobile, j'aime mettre en avant mon pr\u00e9nom et mon nom de famille, car cela refl\u00e8te mon identit\u00e9 professionnelle et personnelle."
+        },
+        {
+            "role": "user",
+            "content": "donc tu as quel age"
+        },
+        {
+            "role": "assistant",
+            "content": "Je ne peux pas r\u00e9pondre \u00e0 votre question car cette information ne me concerne pas. Les donn\u00e9es personnelles que j'ai partag\u00e9es ne mentionnent pas mon \u00e2ge, mais je peux vous dire que j'ai termin\u00e9 mon BAC en 2013 et que j'ai obtenu mon Master en 2019."
+        },
+        {
+            "role": "user",
+            "content": "ah, pas de souci, tu fait de react"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, je travaille avec React ! En fait, j'ai une exp\u00e9rience significative avec React, ainsi que avec d'autres technologies comme NextJS, TypeScript, Tailwind CSS, etc. J'ai m\u00eame utilis\u00e9 ces technologies dans certains de mes projets professionnels, comme lors de mon travail en tant que d\u00e9veloppeur front-end chez Bifora. Je trouve que React est un framework tr\u00e8s puissant et flexible pour cr\u00e9er des applications web modernes et interactives."
+        },
+        {
+            "role": "user",
+            "content": "tu fait devOps aussi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, j'ai \u00e9galement des comp\u00e9tences en DevOps ! J'ai travaill\u00e9 avec des outils comme GitHub Actions, Docker, Nginx, Apache, et j'ai une exp\u00e9rience en mati\u00e8re de CI/CD et de d\u00e9ploiement d'applications. J'ai m\u00eame occup\u00e9 un poste de d\u00e9veloppeur JavaScript / DevOps chez Mellis, o\u00f9 j'ai pu mettre en pratique mes comp\u00e9tences en DevOps pour d\u00e9ployer et g\u00e9rer des applications multiplateformes. Je trouve que les comp\u00e9tences en DevOps sont essentielles pour garantir la qualit\u00e9, la s\u00e9curit\u00e9 et la scalabilit\u00e9 des applications."
+        }
+    ]
+}

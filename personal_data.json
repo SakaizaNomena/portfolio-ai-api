@@ -1,23 +1,88 @@
 {
-  "identify": {
-    "name": "Sahaza Nomena",
+  "identity": {
+    "pseudo": "Sahaza Nomena",
+    "firstname": "Nomena",
+    "lastname": "Sahaza",
     "job": "Développeur Web & Mobile",
-    "adress": "Antsirabe"
+    "exact_address": "Antsirabe 110",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "gender": "Homme",
+    "ethnicity": "Noir",
+    "phone_number": "+261326175344",
+    "email": "sakaizanomena@gmail.com",
+    "facebook": "https://web.facebook.com/razafimandimby.sahaza.nomena",
+    "github": "https://github.com/SakaizaNomena",
+    "bio": "Développeur passionné et autodidacte avec 5 ans d'expérience, je m'adapte rapidement aux nouvelles technologies. J'utilise des outils d'IA comme Gemini et Claude-code pour optimiser la productivité et accélérer l'innovation.",
+    "birthday": "03/03/1994"
   },
   "experience": [
     {
       "job": "Développeur front-end",
-      "entreprise": "Bifora",
-      "duration": "3 ans",
-      "technos": ["React", "NextJS", "TypeScript", "SaaS"]
+      "company": "Bifora",
+      "type": "Full remote - Freelancer",
+      "duration": "Décembre 2024 - Présent",
+      "technologies": ["React", "NextJS", "TypeScript", "SaaS", "React Query", "Tailwind CSS", "NestJS"],
+      "description": "Participation au développement front-end de plusieurs projets chez Bifora"
+    },
+    {
+      "job": "Développeur full-stack",
+      "company": "Newmans Technology",
+      "type": "Hybride - CDD",
+      "duration": "Juillet 2022 - Novembre 2024",
+      "technologies": ["Symfony", "Tailwind CSS", "Firebase", "Python", "Docker", "Vanilla JS"],
+      "description": "Conception et développement d'applications web et mobiles performantes et adaptées aux besoins"
+    },
+    {
+      "job": "Développeur JavaScript / DevOps",
+      "company": "Mellis",
+      "type": "Temps partiel",
+      "duration": "",
+      "technologies": ["Electron.js", "TypeScript", "Apache", "Bootstrap", "Nginx", "Linux", "Windows Server", "Cisco"],
+      "description": "Développement d'applications multiplateformes (Windows, Linux, macOS). Administrateur système et bases de données"
     }
   ],
   "skills": {
-    "front": ["React", "NextJS", "Tailwind", "Tauri"],
-    "back": ["FastAPI", "NodeJS"],
-    "devops": ["GitHub Actions", "Docker"]
+    "programming_languages": ["TypeScript", "JavaScript", "Python", "SQL", "PHP", "HTML", "YAML"],
+    "frameworks_libraries": ["React", "React Native", "NextJS", "FastAPI", "Tauri", "Symfony", "Tailwind CSS", "Bootstrap", "Sass"],
+    "devops": ["GitHub Actions", "Docker", "Nginx", "Apache", "CI/CD", "PM2"],
+    "tools": ["Stripe", "VanillaPay", "WebRTC", "Firebase", "PayPal"],
+    "ai_ml": ["ChatGPT API", "OpenAI API", "TensorFlow.js", "NLP"],
+    "hosting": ["VPS", "Simafri"],
+    "design_methods": ["Merise", "UML"],
+    "prefered_language": ["Typescrip", "Javascript", "Python"]
   },
-  "studies": [
-    "Licence en Informatique – Université d’Antsirabe"
-  ]
+  "education": [
+    {
+      "degree": "Master",
+      "program": "Génie logiciel et base de données",
+      "institution": "CNTEMAD (Centre National de Télé-enseignement de Madagascar)",
+      "year": "2019",
+      "description": [
+        "Formation axée sur le développement de logiciels, la gestion de bases de données, et l'administration des serveurs et des réseaux sous divers environnements (Linux, Windows).",
+        "Projets pratiques incluant la conception d'applications web et la configuration de l'infrastructure informatique."
+      ]
+    },
+    {
+      "degree": "Licence",
+      "program": "Électronique et Informatique appliquée",
+      "institution": "ESPA (École Supérieure Polytechnique d'Antananarivo)",
+      "year": "2017",
+      "description": "Spécialisation en programmation, administration de systèmes, et conception de systèmes électroniques."
+    },
+    {
+      "degree": "BAC série C",
+      "program": "Série C (scientifique)",
+      "institution": "LARA (Lycée André Resampa Antsirabe)",
+      "year": "2013",
+      "description": ""
+    }
+  ],
+  "languages": [
+    "Malgache - Langue maternelle",
+    "Français - Parlé, écrit et lu",
+    "Anglais - Niveau basique (lu et écrit)"
+  ],
+  "hobbies": ["Musique", "Pratique de sport"],
+  "projects": []
 }
