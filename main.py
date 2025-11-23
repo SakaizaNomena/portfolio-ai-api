@@ -111,7 +111,7 @@ async def ask(query: Query):
         "excellent": "Parfait !",
         "ok": "Très bien !",
         "parfait": "Parfait !",
-        "cool": "Cool !",
+        "cool": "Cool !"
     }
 
     greetings_en = {

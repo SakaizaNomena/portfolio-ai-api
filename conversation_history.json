@@ -32,5 +32,83 @@
             "role": "assistant",
             "content": "Oui, j'ai \u00e9galement des comp\u00e9tences en DevOps ! J'ai travaill\u00e9 avec des outils comme GitHub Actions, Docker, Nginx, Apache, et j'ai une exp\u00e9rience en mati\u00e8re de CI/CD et de d\u00e9ploiement d'applications. J'ai m\u00eame occup\u00e9 un poste de d\u00e9veloppeur JavaScript / DevOps chez Mellis, o\u00f9 j'ai pu mettre en pratique mes comp\u00e9tences en DevOps pour d\u00e9ployer et g\u00e9rer des applications multiplateformes. Je trouve que les comp\u00e9tences en DevOps sont essentielles pour garantir la qualit\u00e9, la s\u00e9curit\u00e9 et la scalabilit\u00e9 des applications."
         }
+    ],
+    "2": [
+        {
+            "role": "user",
+            "content": "C'est quoi ton nom"
+        },
+        {
+            "role": "assistant",
+            "content": "Mon nom est Nomena Sahaza, mais mes amis et connaissances m'appellent souvent Sahaza Nomena. C'est un plaisir de te rencontrer !"
+        }
+    ],
+    "3": [
+        {
+            "role": "user",
+            "content": "Quel est ton nom?"
+        },
+        {
+            "role": "assistant",
+            "content": "Mon nom est Sahaza Nomena, et vous pouvez m'appeler soit par mon pr\u00e9nom, Nomena, soit par mon pseudo, Sakaiza Nomena. Je suis ravi de faire votre connaissance !"
+        },
+        {
+            "role": "user",
+            "content": "Tu fait bootstrap?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, je ma\u00eetrise Bootstrap ! En fait, c'est l'un des frameworks et biblioth\u00e8ques que j'ai mentionn\u00e9s dans mes comp\u00e9tences. Je l'ai utilis\u00e9 dans beberapa projets pour cr\u00e9er des interfaces utilisateur responsives et attractives."
+        },
+        {
+            "role": "user",
+            "content": "Tu as combien d'experience en symfony?"
+        },
+        {
+            "role": "assistant",
+            "content": "D'apr\u00e8s mon exp\u00e9rience professionnelle, j'ai travaill\u00e9 avec Symfony lors de mon poste de d\u00e9veloppeur full-stack chez Newmans Technology, o\u00f9 j'ai pass\u00e9 environ 2 ans et 4 mois (de juillet 2022 \u00e0 novembre 2024). Je l'ai utilis\u00e9 pour concevoir et d\u00e9velopper des applications web performantes et adapt\u00e9es aux besoins des clients. C'est donc une exp\u00e9rience notable, mais je n'ai pas la possibilit\u00e9 de donner un chiffre exact en ann\u00e9es de pratique continue avec Symfony."
+        },
+        {
+            "role": "user",
+            "content": "Tu maitrise nextjs?"
+        },
+        {
+            "role": "assistant",
+            "content": "Oui, je ma\u00eetrise NextJS ! En fait, c'est l'un des frameworks que j'ai utilis\u00e9s lors de mon poste de d\u00e9veloppeur front-end chez Bifora, o\u00f9 j'ai travaill\u00e9 sur plusieurs projets. NextJS est \u00e9galement mentionn\u00e9 dans mes comp\u00e9tences, ce qui signifie que je suis \u00e0 l'aise avec ses fonctionnalit\u00e9s et que je peux l'utiliser pour d\u00e9velopper des applications web modernes et performantes."
+        },
+        {
+            "role": "user",
+            "content": "Merci et bonne nuit"
+        },
+        {
+            "role": "assistant",
+            "content": "De rien ! Merci \u00e0 toi \u00e9galement. Je te souhaite une bonne nuit et \u00e0 bient\u00f4t pour discuter \u00e0 nouveau ! \u00c0 propos, si tu as besoin de discuter d\u00e9veloppement web ou autre chose, n'h\u00e9site pas \u00e0 me poser des questions. Bonne nuit !"
+        }
+    ],
+    "4": [
+        {
+            "role": "user",
+            "content": "Shalom"
+        },
+        {
+            "role": "assistant",
+            "content": "Shalom ! Comment allez-vous ? Qu'est-ce que je peux faire pour vous aider aujourd'hui ?"
+        },
+        {
+            "role": "user",
+            "content": "Je cherche un developpeur react? est-ce que tu es dispo"
+        },
+        {
+            "role": "assistant",
+            "content": "Je suis d\u00e9veloppeur React, en fait ! Je travaille avec React, NextJS et m\u00eame React Native. Je suis actuellement en train de travailler comme d\u00e9veloppeur front-end chez Bifora, mais je suis ouvert \u00e0 de nouvelles opportunit\u00e9s. Qu'est-ce que vous avez en t\u00eate ? Un projet sp\u00e9cifique que vous souhaitez r\u00e9aliser ?"
+        },
+        {
+            "role": "user",
+            "content": "Oui, un projet speficique, donne moi ton numero et je te contact"
+        },
+        {
+            "role": "assistant",
+            "content": "Mon num\u00e9ro de t\u00e9l\u00e9phone est +261 32 61 753 44. Vous pouvez me contacter \u00e0 ce num\u00e9ro pour discuter de votre projet. Je serais ravi de d\u00e9couvrir de quoi il s'agit et de voir comment je peux vous aider ! Sinon, vous pouvez \u00e9galement me contacter par email \u00e0 sakaizanomena@gmail.com ou via mon profil Facebook : https://web.facebook.com/razafimandimby.sahaza.nomena. \u00c0 bient\u00f4t !"
+        }
     ]
 }
