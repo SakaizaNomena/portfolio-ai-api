@@ -173,5 +173,105 @@
         "id": "aec65909-e518-4e82-8199-1e0d60b9e309",
         "question": "Oui, un projet speficique, donne moi ton numero et je te contact",
         "date": "2025-11-23T18:02:22.522013"
+    },
+    {
+        "id": "cee7b9b2-b761-4b21-8f40-e7dc9cd734a0",
+        "question": "C'est quoi ton language pr\u00e9ferer",
+        "date": "2025-11-23T18:31:48.133759"
+    },
+    {
+        "id": "94912180-b8dc-4bc1-a90e-54294f89b644",
+        "question": "Si, comprend tu ne fait pas de flutter ou swift",
+        "date": "2025-11-23T18:33:38.925453"
+    },
+    {
+        "id": "31a0be06-b4c4-4585-af6a-645c110a8b46",
+        "question": "Si, mais tu fait de tauri, avec tauri on peut cr\u00e9er des application mobile",
+        "date": "2025-11-23T18:34:23.223494"
+    },
+    {
+        "id": "639dec3a-0abc-435c-a6eb-c1cd03de72c7",
+        "question": "J'adore discuter avec toi? tu me repond avec quel model d'ai actuelement",
+        "date": "2025-11-23T18:36:38.416276"
+    },
+    {
+        "id": "a1b21677-11d9-4229-910c-39b9203acffd",
+        "question": "c'est super",
+        "date": "2025-11-23T18:37:31.730615"
+    },
+    {
+        "id": "74591440-b39f-45b1-90d3-72f8cf67c09f",
+        "question": "tu peut me dire 4 -2 vaut combien?",
+        "date": "2025-11-23T18:37:58.202124"
+    },
+    {
+        "id": "a75f734a-20bd-40bb-870c-de999bc4477f",
+        "question": "qui cr\u00e9er le ciel et la terre selon la bible ou selon toi?",
+        "date": "2025-11-23T18:38:25.684179"
+    },
+    {
+        "id": "38f41f81-35db-487f-add1-dad533ea484a",
+        "question": "Tu es mari\u00e9?",
+        "date": "2025-11-23T18:39:29.630017"
+    },
+    {
+        "id": "a0e3425e-e52b-49ab-888d-829c8feaf9ec",
+        "question": "Tu es mari\u00e9?",
+        "date": "2025-11-23T18:41:11.909726"
+    },
+    {
+        "id": "2906aa27-6aba-4262-a809-d20f8cb7a17f",
+        "question": "Tu es mari\u00e9",
+        "date": "2025-11-23T18:41:43.561728"
+    },
+    {
+        "id": "a75e6629-e64e-4ba6-b269-7e874ee2b4f7",
+        "question": "parler moi de vous",
+        "date": "2025-11-23T18:42:38.095488"
+    },
+    {
+        "id": "c2ca555f-a859-4f95-845c-084984603657",
+        "question": "ok pour vous pas autre",
+        "date": "2025-11-23T18:44:10.309971"
+    },
+    {
+        "id": "bc57df05-0ff1-4d67-ac63-e4b58369f3d1",
+        "question": "je veux faire un entretin avec toi",
+        "date": "2025-11-23T18:44:48.402954"
+    },
+    {
+        "id": "573e95d9-a6e6-400a-8755-0fac69d733fb",
+        "question": "pourquoi tu quitte mellis, ton premiere travaille",
+        "date": "2025-11-23T18:46:16.387845"
+    },
+    {
+        "id": "7d7fe07a-57bd-4874-aa58-af31c0660bfc",
+        "question": "pourquoi tu quitte mellis, ton premiere travaille",
+        "date": "2025-11-24T04:34:21.163737"
+    },
+    {
+        "id": "3bec68a4-4ba8-4899-8d9a-209ac2213649",
+        "question": "pourquoi tu quitte newmans technology, ton premiere travaille",
+        "date": "2025-11-24T04:34:56.116911"
+    },
+    {
+        "id": "3d025b1f-c436-4491-bd96-8302807d0483",
+        "question": "a part le code, tu fais quoi dans la vie",
+        "date": "2025-11-24T04:36:37.928065"
+    },
+    {
+        "id": "ef033f4a-5417-4983-9b83-0aef983b2b2a",
+        "question": "tu prefere quel genre de music",
+        "date": "2025-11-24T05:54:27.513907"
+    },
+    {
+        "id": "8d65a49c-55d1-49a4-8e07-564241c52e23",
+        "question": "Raconte moi tes projet sur nextjs",
+        "date": "2025-11-24T06:50:10.829200"
+    },
+    {
+        "id": "48c86ba0-8d7f-4ae2-8fc5-c3caa9c55bfc",
+        "question": "C'est quoi le language que tu utilise souvent dans le code",
+        "date": "2025-11-24T06:52:49.737220"
     }
 ]

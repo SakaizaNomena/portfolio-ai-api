@@ -1,56 +1,61 @@
 {
   "identity": {
-    "pseudo": "Sahaza Nomena",
-    "firstname": "Nomena",
-    "lastname": "Sahaza",
-    "job": "Développeur Web & Mobile",
-    "exact_address": "Antsirabe 110",
+    "username": "Sahaza Nomena",
+    "first_name": "Nomena",
+    "last_name": "Sahaza",
+    "job_title": "Développeur Web & Mobile",
+    "address": "Antsirabe 110",
     "city": "Antananarivo",
     "country": "Madagascar",
     "gender": "Homme",
     "ethnicity": "Noir",
     "phone_number": "+261326175344",
     "email": "sakaizanomena@gmail.com",
-    "facebook": "https://web.facebook.com/razafimandimby.sahaza.nomena",
-    "github": "https://github.com/SakaizaNomena",
-    "bio": "Développeur passionné et autodidacte avec 5 ans d'expérience, je m'adapte rapidement aux nouvelles technologies. J'utilise des outils d'IA comme Gemini et Claude-code pour optimiser la productivité et accélérer l'innovation.",
-    "birthday": "03/03/1994"
+    "facebook_url": "https://web.facebook.com/razafimandimby.sahaza.nomena",
+    "github_url": "https://github.com/SakaizaNomena",
+    "bio": "Développeur passionné et autodidacte avec 5 ans d'expérience, je m'adapte rapidement aux nouvelles technologies. J'utilise des outils d'IA comme Gemini et Claude Code pour optimiser ma productivité et accélérer l'innovation.",
+    "birthdate": "03/03/1997",
+    "married": "Oui",
+    "has_children": "Oui",
+    "children_count": "1"
   },
   "experience": [
     {
-      "job": "Développeur front-end",
+      "job_title": "Développeur front-end",
       "company": "Bifora",
-      "type": "Full remote - Freelancer",
-      "duration": "Décembre 2024 - Présent",
+      "work_type": "Full remote - Freelance",
+      "period": "Décembre 2024 - Présent",
       "technologies": ["React", "NextJS", "TypeScript", "SaaS", "React Query", "Tailwind CSS", "NestJS"],
-      "description": "Participation au développement front-end de plusieurs projets chez Bifora"
+      "description": "Participation au développement front-end de plusieurs projets chez Bifora."
     },
     {
-      "job": "Développeur full-stack",
+      "job_title": "Développeur full-stack",
       "company": "Newmans Technology",
-      "type": "Hybride - CDD",
-      "duration": "Juillet 2022 - Novembre 2024",
+      "work_type": "Hybride - CDD",
+      "period": "Juillet 2022 - Novembre 2024",
       "technologies": ["Symfony", "Tailwind CSS", "Firebase", "Python", "Docker", "Vanilla JS"],
-      "description": "Conception et développement d'applications web et mobiles performantes et adaptées aux besoins"
+      "description": "Conception et développement d'applications web et mobiles performantes et adaptées aux besoins.",
+      "leaving_reason": "Fin de contrat et fin de projet."
     },
     {
-      "job": "Développeur JavaScript / DevOps",
+      "job_title": "Développeur JavaScript / DevOps",
       "company": "Mellis",
-      "type": "Temps partiel",
-      "duration": "",
+      "work_type": "Temps partiel",
+      "period": "",
       "technologies": ["Electron.js", "TypeScript", "Apache", "Bootstrap", "Nginx", "Linux", "Windows Server", "Cisco"],
-      "description": "Développement d'applications multiplateformes (Windows, Linux, macOS). Administrateur système et bases de données"
+      "description": "Développement d'applications multiplateformes (Windows, Linux, macOS). Gestion des systèmes et des bases de données.",
+      "leaving_reason": "J'ai trouvé une nouvelle opportunité pour améliorer mes compétences."
     }
   ],
   "skills": {
     "programming_languages": ["TypeScript", "JavaScript", "Python", "SQL", "PHP", "HTML", "YAML"],
-    "frameworks_libraries": ["React", "React Native", "NextJS", "FastAPI", "Tauri", "Symfony", "Tailwind CSS", "Bootstrap", "Sass"],
+    "frameworks_and_libraries": ["React", "React Native", "NextJS", "FastAPI", "Tauri", "Symfony", "Tailwind CSS", "Bootstrap", "Sass"],
     "devops": ["GitHub Actions", "Docker", "Nginx", "Apache", "CI/CD", "PM2"],
     "tools": ["Stripe", "VanillaPay", "WebRTC", "Firebase", "PayPal"],
-    "ai_ml": ["ChatGPT API", "OpenAI API", "TensorFlow.js", "NLP"],
+    "ai_and_ml": ["ChatGPT API", "OpenAI API", "TensorFlow.js", "NLP"],
     "hosting": ["VPS", "Simafri"],
     "design_methods": ["Merise", "UML"],
-    "prefered_language": ["Typescrip", "Javascript", "Python"]
+    "preferred_languages": ["TypeScript", "JavaScript", "Python"]
   },
   "education": [
     {
@@ -59,8 +64,8 @@
       "institution": "CNTEMAD (Centre National de Télé-enseignement de Madagascar)",
       "year": "2019",
       "description": [
-        "Formation axée sur le développement de logiciels, la gestion de bases de données, et l'administration des serveurs et des réseaux sous divers environnements (Linux, Windows).",
-        "Projets pratiques incluant la conception d'applications web et la configuration de l'infrastructure informatique."
+        "Formation axée sur le développement logiciel, la gestion de bases de données et l'administration de serveurs sous Linux et Windows.",
+        "Réalisation de projets pratiques incluant conception d'applications web et configuration d'infrastructures."
       ]
     },
     {
@@ -68,11 +73,11 @@
       "program": "Électronique et Informatique appliquée",
       "institution": "ESPA (École Supérieure Polytechnique d'Antananarivo)",
       "year": "2017",
-      "description": "Spécialisation en programmation, administration de systèmes, et conception de systèmes électroniques."
+      "description": "Spécialisation en programmation, en administration de systèmes et en conception de systèmes électroniques."
     },
     {
       "degree": "BAC série C",
-      "program": "Série C (scientifique)",
+      "program": "Série scientifique C",
       "institution": "LARA (Lycée André Resampa Antsirabe)",
       "year": "2013",
       "description": ""
@@ -83,6 +88,74 @@
     "Français - Parlé, écrit et lu",
     "Anglais - Niveau basique (lu et écrit)"
   ],
-  "hobbies": ["Musique", "Pratique de sport"],
-  "projects": []
+  "hobbies": [
+    "Musique (j'adore le rock comme Scorpions, Guns N' Roses, Metallica)",
+    "Sport (je pratique le Jeet Kune Do et le Wing Chun, les arts de Bruce Lee)"
+  ],
+  "notable_projects": [
+    {
+      "id": 1,
+      "title": "PoIA (Pointeur intelligent)",
+      "description": "Un pointeur intelligent destiné à l’équipe Mellis pour le pointage. Chaque pointage est enregistré en base de données, puis des notifications sont envoyées automatiquement au service RH. L’objectif est de réduire les retards et améliorer le suivi des équipes.",
+      "categories": ["Électronique", "IA", "Mobile", "Desktop"],
+      "technologies": ["ElectronJs", "React Native", "Bootstrap", "Arduino", "C++"],
+      "languages_used": ["JavaScript", "C++"]
+    },
+    {
+      "id": 2,
+      "title": "MeCoRe (Mellis Compta Report)",
+      "description": "Application mobile permettant de consulter les rapports de vente, production et pertes en temps réel, avec notifications horaires. Une API Symfony et un cron vérifient en continu l'état de la base.",
+      "categories": ["Automation", "Mobile"],
+      "technologies": ["Symfony", "React Native", "Mercure", "Bootstrap", "ApiPlatform"],
+      "languages_used": ["PHP", "JavaScript"]
+    },
+    {
+      "id": 3,
+      "title": "SGEM (Gestion des stocks Mellis)",
+      "description": "Application de gestion des stocks (entrées, sorties, emballages, pertes) avec envoi automatique de rapports hebdomadaires par email.",
+      "categories": ["Multiplatform (Windows, macOS, Linux)", "Web", "Mobile"],
+      "technologies": ["Tauri", "NextJS", "Firebase", "FastAPI"],
+      "languages_used": ["Python", "Rust", "TypeScript", "Tailwind", "React Native"]
+    },
+    {
+      "id": 4,
+      "title": "Immo Go (Plateforme immobilière)",
+      "description": "Plateforme immobilière pour achat et vente de biens comme maisons, voitures et matériel télécom.",
+      "categories": ["Mobile", "Web"],
+      "technologies": ["Symfony", "VueJs", "Tailwind", "React Native", "Stripe"],
+      "languages_used": ["TypeScript", "PHP"]
+    },
+    {
+      "id": 5,
+      "title": "Aty Aminay (Plateforme touristique)",
+      "description": "Plateforme permettant de réserver des chambres, gîtes, véhicules et repas.",
+      "categories": ["Web"],
+      "technologies": ["Symfony", "VanillaJS", "SCSS"],
+      "languages_used": ["PHP", "JavaScript"]
+    },
+    {
+      "id": 6,
+      "title": "Airsoft",
+      "description": "Application permettant de créer des terrains, événements, équipes et organisations, avec chat et notifications en temps réel.",
+      "categories": ["Mobile"],
+      "technologies": ["React Native", "Firebase", "Tailwind"],
+      "languages_used": ["TypeScript"]
+    },
+    {
+      "id": 7,
+      "title": "Belyfine",
+      "description": "Plateforme web d'accompagnement en ligne (mobilité, nutrition, réhabilitation).",
+      "categories": ["Web"],
+      "technologies": ["VanillaJS", "CSS", "Symfony", "Stripe"],
+      "languages_used": ["JavaScript", "PHP"]
+    },
+    {
+      "id": 8,
+      "title": "IzoLearn",
+      "description": "Plateforme de vente de cours, création de lives, jeux pédagogiques et événements, similaire à Udemy mais avec des fonctionnalités avancées (teams, events, practice). Le slogan c'est Apprenez des meilleurs, à tout moment, n'importe où !,",
+      "categories": ["Web"],
+      "technologies": ["NextJS", "Tailwind", "GPT4ALL"]
+    }
+  ],
+  "remark": "J’ai réalisé d’autres projets, mais ceux-ci sont les plus remarquables."
 }
